@@ -1,0 +1,11 @@
+/* 
+  Locallizable.strings
+  WeatherApp
+
+  Created by Jorge Sanmartin on 26/03/22.
+  
+*/
+
+"temperature.Label" = "%1.2fº";
+"temperature.variations.Label" = "Low: %1.2fº High: %1.2fº";
+"wind.Label" = "Wind: %1.2f(%d)";
